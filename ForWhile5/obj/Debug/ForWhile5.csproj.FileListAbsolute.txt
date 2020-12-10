@@ -1,0 +1,10 @@
+C:\Users\Comum\Desktop\Dayara\c#\ForWhile5\ForWhile5\bin\Debug\ForWhile5.exe.config
+C:\Users\Comum\Desktop\Dayara\c#\ForWhile5\ForWhile5\bin\Debug\ForWhile5.exe
+C:\Users\Comum\Desktop\Dayara\c#\ForWhile5\ForWhile5\bin\Debug\ForWhile5.pdb
+C:\Users\Comum\Desktop\Dayara\c#\ForWhile5\ForWhile5\obj\Debug\ForWhile5.csprojAssemblyReference.cache
+C:\Users\Comum\Desktop\Dayara\c#\ForWhile5\ForWhile5\obj\Debug\ForWhile5.Form1.resources
+C:\Users\Comum\Desktop\Dayara\c#\ForWhile5\ForWhile5\obj\Debug\ForWhile5.Properties.Resources.resources
+C:\Users\Comum\Desktop\Dayara\c#\ForWhile5\ForWhile5\obj\Debug\ForWhile5.csproj.GenerateResource.cache
+C:\Users\Comum\Desktop\Dayara\c#\ForWhile5\ForWhile5\obj\Debug\ForWhile5.csproj.CoreCompileInputs.cache
+C:\Users\Comum\Desktop\Dayara\c#\ForWhile5\ForWhile5\obj\Debug\ForWhile5.exe
+C:\Users\Comum\Desktop\Dayara\c#\ForWhile5\ForWhile5\obj\Debug\ForWhile5.pdb
